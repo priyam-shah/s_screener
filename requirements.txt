@@ -1,0 +1,11 @@
+streamlit
+redis
+# time
+requests
+datetime
+numpy
+pandas
+# pandas.core
+statistics
+scipy
+# math
